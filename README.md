@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Samruddhi Deode
 
 <!--
 **samruddhideode/samruddhideode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<ul>
+<li>:woman_student: Pre-Final year Computer Engineering Student</li>
+<li>:woman_technologist: Full Stack Developer</li>
+<li>:bulb: Interested in Blockchain and Machine Learning</li>
+<li>:running_woman: Incoming Summer Intern at JP Morgan Chase and Co.</li>
+</ul>
+
+
